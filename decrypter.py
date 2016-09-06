@@ -1,5 +1,8 @@
+# Char list that will be tested, more chars mean more time
 char_list = 'abcdefghijklmnopqrstuvwxyz'
+# Location of the database
 db_loc = './somefolder/crypted.db'
+# How big will the last string tested be?
 max_chars = 6
 
 
